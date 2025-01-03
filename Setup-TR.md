@@ -59,6 +59,8 @@
 
 ## Linux VPS : 
 
+- Main Rehber : https://github.com/hyperspaceai/aios-cli?tab=readme-ov-file
+
 #### Sistem paketlerini güncellemek ve yükseltmek için aşağıdaki komutu çalıştırın:
 
 ```bash
@@ -70,4 +72,28 @@ sudo apt update -y && sudo apt upgrade -y
 sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev tmux iptables curl nvme-cli git wget make jq libleveldb-dev build-essential pkg-config ncdu tar clang bsdmainutils lsb-release libssl-dev libreadline-dev libffi-dev jq gcc screen unzip lz4 -y
 ```
 
-###
+## İndirelim ; 
+
+```bash
+curl https://download.hyper.space/api/install | bash
+
+source /root/.bashrc
+```
+
+- Örnek İndirme : 
+
+![resim](https://github.com/user-attachments/assets/998ec182-9893-4153-bae3-3a446fa6a298)
+
+## Screen ; 
+
+```bash
+screen -S hyper
+```
+
+## Başlatalım : 
+
+```bash
+aios-cli start
+```
+
+
