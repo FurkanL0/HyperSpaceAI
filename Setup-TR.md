@@ -126,6 +126,43 @@ aios-cli hive select-tier 5
 
 #### 1. İçeride Key İmport Edelim : 
 
+```bash
+nano my.pem
+```
+
+![resim](https://github.com/user-attachments/assets/70d5ae23-feb1-46df-9a79-16bb653fdff7)
+
+- Browser'dan aldığınız keyi Sağ Tık'ınız ile kaydedin. ( Ben Farklı bir browser'dan yeni key aldım çakışmasın diye ).
+
+- CTRL X Y Enter. Kaydedin. 
+
+
+###### İmport Edelim : 
+
+```bash
+aios-cli hive import-keys ./my.pem
+```
+
+![resim](https://github.com/user-attachments/assets/49c842ef-710d-4e1d-aa4a-455a476b664c)
+
+
+#### Giriş Yapalım : 
+
+
+```bash
+aios-cli hive login
+```
+
+####  Diğer Aşamalar : 
+
+```bash
+aios-cli hive select-tier 5
+```
+```bash
+aios-cli models add hf:TheBloke/phi-2-GGUF:phi-2.Q4_K_M.gguf
+```
+
+![resim](https://github.com/user-attachments/assets/8266b70e-8add-437b-9928-b686e03da32c)
 
 
 ## Puanlar
@@ -162,3 +199,8 @@ aios-cli kill
 ```bash
 curl https://download.hyper.space/api/uninstall | bash
 ```
+
+
+- screen -r hyper yaparsanız ortalama Loglarını böyle olacak : 
+
+![resim](https://github.com/user-attachments/assets/0e07d3da-e1a9-4b38-b01d-7e8c2bfd8bc9)
