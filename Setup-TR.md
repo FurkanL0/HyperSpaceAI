@@ -95,5 +95,25 @@ screen -S hyper
 ```bash
 aios-cli start
 ```
+ 
+- CTRL A + D ile sayfadan çıkabiliriz. 
+- Geri sayfaya girmek isterseniz : screen -r  hyper
+
+Önemli Komutlar : 
+
+```bash
+# Hangi modellerin gerekli olduğunu görmek için : 
+aios-cli hive select-tier 5
+# Gerekli bir modeli indirin
+aios-cli models add hf:TheBloke/phi-2-GGUF:phi-2.Q4_K_M.gguf
+# Özel anahtarınızı içe aktarın - nano .pem kullanarak bir my.pem dosyası oluşturun ve bir özel anahtar girin (Tarayıcı sürümünden bir özel anahtar alabilirsiniz)
+aios-cli hive import-keys ./my.pem
+# Bu anahtarları bu oturum için tercih edilen olarak ayarlayın
+aios-cli hive login
+# Modelin kayıtlı olduğundan emin olun
+aios-cli hive connect
+aios-cli hive select-tier 5
+```
+
 
 
