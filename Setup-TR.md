@@ -135,4 +135,19 @@ aios-cli hive select-tier 5
     4 : 4GB
     5 : 2GB
 
+## Puan Kontrolü : 
 
+```bash
+aios-cli hive points
+```
+
+- Yararlı Komutlar : 
+
+```bash
+# Eğer node durdu ise hızlı bağlantı için : 
+aios-cli start --connect
+# Güncelleme : 
+aios-cli version
+# Durdurma : 
+aios-cli kill
+```bash
