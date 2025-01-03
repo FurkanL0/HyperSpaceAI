@@ -123,5 +123,16 @@ aios-cli hive connect
 aios-cli hive select-tier 5
 ```
 
+ - Puanlar
+
+- Puan almak için bir kademeye girmeniz gerekir (şu anda en iyiden en kötüye 1-5 arasında değişmektedir).
+
+- Her tier'lerde indirmeniz ve ağa kaydetmeniz gereken bazı gerekli modeller ve belirli miktarlarda GPU belleği vardır:
+
+    1 : 30GB
+    2 : 20GB
+    3 : 8GB
+    4 : 4GB
+    5 : 2GB
 
 
