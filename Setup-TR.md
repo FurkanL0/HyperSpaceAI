@@ -76,7 +76,8 @@ sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev lib
 
 ```bash
 curl https://download.hyper.space/api/install | bash
-
+```
+```bash
 source /root/.bashrc
 ```
 
