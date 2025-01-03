@@ -123,7 +123,7 @@ aios-cli hive connect
 aios-cli hive select-tier 5
 ```
 
- - Puanlar
+## Puanlar
 
 - Puan almak için bir kademeye girmeniz gerekir (şu anda en iyiden en kötüye 1-5 arasında değişmektedir).
 
