@@ -124,6 +124,10 @@ aios-cli hive connect
 aios-cli hive select-tier 5
 ```
 
+#### 1. İçeride Key İmport Edelim : 
+
+
+
 ## Puanlar
 
 - Puan almak için bir kademeye girmeniz gerekir (şu anda en iyiden en kötüye 1-5 arasında değişmektedir).
