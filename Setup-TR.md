@@ -7,7 +7,7 @@
 
 - Browser
 - MAC / Windows
-- CLI ( Sunucu )
+- CLI ( Sunucu ) https://github.com/FurkanL0/HyperSpaceAI/blob/main/Setup-TR.md#linux-vps-
 
 <img src="https://github.com/user-attachments/assets/bf91e6b6-e379-4684-b11b-84106c0f2e98" alt="to0x:)" width="500">
 
