@@ -19,6 +19,13 @@
 
 ![resim](https://github.com/user-attachments/assets/0e6c54d2-948f-4ef7-b875-999d2a7cd9b7)
 
+## Aktif olduktan sonra Points kısmından kontrol yapıp Liveness olduğundan emin olun.
+
+![resim](https://github.com/user-attachments/assets/af031538-ec03-4444-8ef5-5d76d06487ff)
+
+
+![resim](https://github.com/user-attachments/assets/ced0b28d-28ec-438f-9db2-e8675826b39c)
+
 
 ## 2 / Windows :
 
