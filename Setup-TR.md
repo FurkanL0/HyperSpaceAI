@@ -189,6 +189,9 @@ aios-cli models add hf:TheBloke/phi-2-GGUF:phi-2.Q4_K_M.gguf
 aios-cli hive points
 ```
 
+![resim](https://github.com/user-attachments/assets/bd5fede7-8b0b-4333-84d7-17dc54ac5346)
+
+
 - Yararlı Komutlar : 
 
 ```bash
