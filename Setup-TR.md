@@ -6,4 +6,5 @@
 - MAC / Windows
 - CLI ( Sunucu )
 
-![resim](https://github.com/user-attachments/assets/b212370c-ea0c-4753-8abf-24a8220324c8)
+![resim](https://github.com/user-attachments/assets/ce55ffb5-c147-4daf-b81d-bbb038342e05)
+
