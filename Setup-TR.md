@@ -33,6 +33,11 @@
 
 ![resim](https://github.com/user-attachments/assets/4a0cfae8-d9e2-4739-8fd9-f4f71bf42255)
 
+## Çalışır Hali ( Puan Kasan ) : 
+
+![resim](https://github.com/user-attachments/assets/2da9ec02-8559-4bd0-b35e-25ab38cf5907)
+
+
 ## Önemli Bilgilendirme : Sistem ara ara donuyor kopuyor - çalışma duruyor butona basıp yeşil yaptığımız kısım Kırmızıya dönüyor. Ara ara kontrol edin.
 
 
