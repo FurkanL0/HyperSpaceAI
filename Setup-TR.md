@@ -37,7 +37,7 @@
 ## Önemli Bilgilendirme : Sistem ara ara donuyor kopuyor - çalışma duruyor butona basıp yeşil yaptığımız kısım Kırmızıya dönüyor. Ara ara kontrol edin.
 
 
-## 2 / Windows :
+# 2 / Windows :
 
 - Link : https://hyper.space/
 
@@ -62,7 +62,7 @@
 
 
 
-## Linux VPS : 
+# Linux VPS : 
 
 - Main Rehber : https://github.com/hyperspaceai/aios-cli?tab=readme-ov-file
 
