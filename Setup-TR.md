@@ -27,6 +27,13 @@
 ![resim](https://github.com/user-attachments/assets/ced0b28d-28ec-438f-9db2-e8675826b39c)
 
 
+## Sonrasında bize oluşturduğu Key'i kaydedelim. Yoksa puanlar püff olabilir.
+
+![resim](https://github.com/user-attachments/assets/496adc93-aff6-4bc5-bb35-66971a550592)
+
+![resim](https://github.com/user-attachments/assets/4a0cfae8-d9e2-4739-8fd9-f4f71bf42255)
+
+
 ## 2 / Windows :
 
 
