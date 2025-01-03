@@ -5,7 +5,7 @@
 
 ## 3 Farklı Kurulum Yapabiliyoruz 
 
-- Browser
+- Browser https://github.com/FurkanL0/HyperSpaceAI/blob/main/Setup-TR.md#1--web-browser-
 - MAC / Windows
 - CLI ( Sunucu ) https://github.com/FurkanL0/HyperSpaceAI/blob/main/Setup-TR.md#linux-vps-
 
