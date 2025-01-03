@@ -150,4 +150,10 @@ aios-cli start --connect
 aios-cli version
 # Durdurma : 
 aios-cli kill
+```
+
+## Silme : 
+
 ```bash
+curl https://download.hyper.space/api/uninstall | bash
+```
