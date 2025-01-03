@@ -38,5 +38,23 @@
 
 ## 2 / Windows :
 
+- Link : https://hyper.space/
+
+![resim](https://github.com/user-attachments/assets/32f93027-4da1-4b66-8252-017e414694d6)
+
+- GPU ( Ekran Kartı ) : Nvidia
+- CPU ( İşlemci ) : x86 Intel
+
+#### İndirilen dosyaya NEXT NEXT NEXT - Kuruldu mis gibi.
+
+![resim](https://github.com/user-attachments/assets/645320e7-4ee9-4578-802f-4983e727cf2f)
+
+#### Bundada Puanlarınızın gitmemesi için key'in bir kopyasını saklayın. 
+
+- Key'in Dosya Yolu C:\Users\burayasizinusergelecek\AppData\Roaming\hyperspace
+
+![resim](https://github.com/user-attachments/assets/e1c1cc6e-f432-4b7d-98b7-c080d27cc7a2)
+
+
 
 ## Linux VPS : 
