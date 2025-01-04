@@ -165,7 +165,7 @@ aios-cli models add hf:TheBloke/phi-2-GGUF:phi-2.Q4_K_M.gguf
     4 : 4GB
     5 : 2GB
 
-## Puan Kontrolü : 
+## Score Check :
 
 ```bash
 aios-cli hive points
@@ -174,7 +174,7 @@ aios-cli hive points
 ![resim](https://github.com/user-attachments/assets/bd5fede7-8b0b-4333-84d7-17dc54ac5346)
 
 
-- Yararlı Komutlar : 
+- Useful Commands :
 
 ```bash
 # For fast connection if the node is stopped : 
@@ -191,7 +191,7 @@ aios-cli kill
 curl https://download.hyper.space/api/uninstall | bash
 ```
 
-## Birkaç Ek Bilgi : 
+## Some Additional Information:
 
 ```bash
 # To see which models are needed : 
