@@ -17,7 +17,7 @@
 
 #### Click on the Red Button and make it active.
 
-![resim](https://github.com/user-attachments/assets/0e6c54d2-948f-4ef7-b875-999d2a7cd9b7)
+![resim](https://github.com/user-attachments/assets/4a763da7-40fb-4eca-87d0-a1452fbbee37)
 
 ## After activation, check Points and make sure it has Liveness.
 
