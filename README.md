@@ -9,7 +9,7 @@
 - MAC / Windows 
 - CLI ( Server ) 
 
-<img src="https://github.com/user-attachments/assets/4a763da7-40fb-4eca-87d0-a1452fbbee37" alt="to0x:)" width="500">
+<img src="https://github.com/user-attachments/assets/bf91e6b6-e379-4684-b11b-84106c0f2e98" alt="to0x:)" width="500">
 
 ## 1 / WEB BROWSER :
 
