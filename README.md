@@ -65,7 +65,7 @@
 
 # Linux VPS : 
 
-- Main Rehber : https://github.com/hyperspaceai/aios-cli?tab=readme-ov-file
+- Main Setup : https://github.com/hyperspaceai/aios-cli?tab=readme-ov-file
 
 #### Run the following command to update and upgrade system packages:
 
