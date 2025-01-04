@@ -147,9 +147,6 @@ aios-cli hive login
 ####  Diğer Aşamalar : 
 
 ```bash
-aios-cli hive select-tier 5
-```
-```bash
 aios-cli models add hf:TheBloke/phi-2-GGUF:phi-2.Q4_K_M.gguf
 ```
 
