@@ -92,13 +92,6 @@ source /root/.bashrc
 ![resim](https://github.com/user-attachments/assets/998ec182-9893-4153-bae3-3a446fa6a298)
 
 
-## Bilgileri Ayarlayalım  : 
-
-- Browser kısmındaki aldığımız gibi bir private key alalım. 
-
-![resim](https://github.com/user-attachments/assets/0a975077-26f0-4bd1-8ed6-5930d74d3de2)
-
-
 ## Screen ; 
 
 ```bash
@@ -113,6 +106,13 @@ aios-cli start
  
 - CTRL A + D ile sayfadan çıkabiliriz. 
 - Geri sayfaya girmek isterseniz : screen -r  hyper
+
+
+## Bilgileri Ayarlayalım  : 
+
+- Browser kısmındaki aldığımız gibi bir private key alalım. 
+
+![resim](https://github.com/user-attachments/assets/0a975077-26f0-4bd1-8ed6-5930d74d3de2)
 
 
 #### 1. İçeride Key İmport Edelim : 
