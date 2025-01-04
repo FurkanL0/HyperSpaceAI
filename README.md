@@ -177,15 +177,15 @@ aios-cli hive points
 - Yararlı Komutlar : 
 
 ```bash
-# Eğer node durdu ise hızlı bağlantı için : 
+# For fast connection if the node is stopped : 
 aios-cli start --connect
-# Güncelleme : 
+# Update : 
 aios-cli version
-# Durdurma : 
+# Stop : 
 aios-cli kill
 ```
 
-## Silme : 
+## Uninstall : 
 
 ```bash
 curl https://download.hyper.space/api/uninstall | bash
@@ -194,20 +194,20 @@ curl https://download.hyper.space/api/uninstall | bash
 ## Birkaç Ek Bilgi : 
 
 ```bash
-# Hangi modellerin gerekli olduğunu görmek için : 
+# To see which models are needed : 
 aios-cli hive select-tier 5
-# Gerekli bir modeli indirin
+# Download a required model
 aios-cli models add hf:TheBloke/phi-2-GGUF:phi-2.Q4_K_M.gguf
-# Özel anahtarınızı içe aktarın - nano .pem kullanarak bir my.pem dosyası oluşturun ve bir özel anahtar girin (Tarayıcı sürümünden bir özel anahtar alabilirsiniz)
+# Import your private key - create a my.pem file using nano my.pem and enter a private key (You can import a private key from the Browser version)
 aios-cli hive import-keys ./my.pem
-# Bu anahtarları bu oturum için tercih edilen olarak ayarlayın
+# Set these switches as preferred for this session
 aios-cli hive login
-# Modelin kayıtlı olduğundan emin olun
+# Make sure the model is registered
 aios-cli hive connect
 aios-cli hive select-tier 5
 ```
 
 
-- screen -r hyper yaparsanız ortalama Loglarını böyle olacak : 
+- If you do screen -r hyper the average logs will be like this:
 
 ![resim](https://github.com/user-attachments/assets/0e07d3da-e1a9-4b38-b01d-7e8c2bfd8bc9)
