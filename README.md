@@ -123,12 +123,12 @@ nano my.pem
 
 ![resim](https://github.com/user-attachments/assets/70d5ae23-feb1-46df-9a79-16bb653fdff7)
 
-- Browser'dan aldığınız keyi Sağ Tık'ınız ile kaydedin. ( Ben Farklı bir browser'dan yeni key aldım çakışmasın diye ).
+- Save the key you got from the browser with your Right Click. (I got a new key from a different browser to avoid conflicts).
 
-- CTRL X Y Enter. Kaydedin. 
+- CTRL X Y Enter. Save
 
 
-###### İmport Edelim : 
+###### Let's import it:
 
 ```bash
 aios-cli hive import-keys ./my.pem
@@ -137,14 +137,14 @@ aios-cli hive import-keys ./my.pem
 ![resim](https://github.com/user-attachments/assets/49c842ef-710d-4e1d-aa4a-455a476b664c)
 
 
-#### Giriş Yapalım : 
+#### Login : 
 
 
 ```bash
 aios-cli hive login
 ```
 
-####  Diğer Aşamalar : 
+####  Other Stages :
 
 ```bash
 aios-cli models add hf:TheBloke/phi-2-GGUF:phi-2.Q4_K_M.gguf
@@ -153,11 +153,11 @@ aios-cli models add hf:TheBloke/phi-2-GGUF:phi-2.Q4_K_M.gguf
 ![resim](https://github.com/user-attachments/assets/8266b70e-8add-437b-9928-b686e03da32c)
 
 
-## Puanlar
+## Points
 
-- Puan almak için bir kademeye girmeniz gerekir (şu anda en iyiden en kötüye 1-5 arasında değişmektedir).
+- To get a score you need to enter a tier (currently ranging from 1-5 from best to worst).
 
-- Her tier'lerde indirmeniz ve ağa kaydetmeniz gereken bazı gerekli modeller ve belirli miktarlarda GPU belleği vardır:
+- Each tier has some required models and certain amounts of GPU memory that you need to download and save to the network:
 
     1 : 30GB
     2 : 20GB
