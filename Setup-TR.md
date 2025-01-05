@@ -154,14 +154,6 @@ aios-cli models add hf:TheBloke/phi-2-GGUF:phi-2.Q4_K_M.gguf
 aios-cli hive select-tier 5
 ```
 
-```bash
-aios-cli hive connect
-```
-
-```bash
-aios-cli hive select-tier 5
-```
-
 ![resim](https://github.com/user-attachments/assets/8266b70e-8add-437b-9928-b686e03da32c)
 
 
